@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Blurry — Mobile menu
+Plugin Name: Blurry Mobile menu
 Plugin URI: http://blurry.looks-awesome.com
 Description: Dimmed menu to add stylish  navigation for mobiles
 Version: 1.0.0

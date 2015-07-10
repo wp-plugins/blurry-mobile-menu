@@ -1,4 +1,4 @@
-=== Blurry — Mobile menu ===
+=== Blurry - Mobile menu ===
 Contributors: looks_awesome
 Donate link: http://looks-awesome.com/
 License: GPLv3
