@@ -8,7 +8,7 @@ Requires at least: 3.6
 Tested up to: 4.2.2
 Stable tag: 1.0
 
-Blurry uses your WordPress theme standard menu as a source to build original menu with impressive appearance effects and sleek animations.
+Blurry uses your WordPress theme standard menu as a source to build original responsive menu with impressive appearance effects and sleek animations.
 
 == Description ==
 
