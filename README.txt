@@ -67,7 +67,13 @@ You can use automatic update to update the plugin safely.
 = How it works? =
 Blurry uses WordPress menu mapped to location specified on Blurry options page as source to generate the responsive menu. It can replace existing menu. You can edit these menus and its mappings in Appearance/Menus. Blurry requires standard WordPress 3 menu structure to work.
 
-= Do you provide support?
+= Where I can find settings? =
+Settings are located in WP Admin on Settings/Blurry Mobile Menu page
+
+= Does it replace default menu? =
+You can set plugin to do so on settings page. But this won't work in 100% due to different approaches from theme authors
+
+= Do you provide support? =
 Plugin is distrubuted "as is" and doesn't contain support services. However it can be our good will to help you.
 
 == Screenshots ==
