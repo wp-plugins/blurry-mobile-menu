@@ -8,20 +8,19 @@ Requires at least: 3.6
 Tested up to: 4.2.2
 Stable tag: 1.0
 
-Blurry uses your WordPress theme standard menu as a source to build original responsive menu with impressive appearance effects and sleek animations.
+Blurry uses your WordPress theme standard menu as a source to build an original responsive menu with impressive appearance effects and sleek animations.
 
 == Description ==
 
 [Demo here](http://blurry.looks-awesome.com/ "Blurry demo")
 
-Navigation is very important part of user experience and Blurry makes it easier for small screens. It uses cutting-edge CSS3 techniques like blur effect for whole page (with fallbacks if blur is not supported) and various animations for menu. 
+Navigation is a very important part of user experience and Blurry makes it easier for small screens. It uses cutting-edge CSS3 techniques like blur effect for whole page (with fallbacks if blur is not supported) and various animations for menus.
 
-Blurry is not a regular drop-down or vertical menu that you saw hundred times on WordPress websites. The plugin makes background blurry in sleek and amazing way while showing navigation. Your website starts to look like custom mobile application or game if you wish. 
+Blurry is not just another one of the hundreds of average drop down menus you’ve seen on WordPress websites. This plugin makes the background blur in sleek and amazing way when the navigation displays. Your website starts to look like custom mobile application or game if you wish.
 
-Blurry supports multi-level navigation with no limitation on depth. Easy tap-tap interface is obvious and does not detract visitors. For better navigation on your website the plugin includes built-in search which is optional. Overall Blurry is all about best UI/UX practices combined with amazing design.
+Blurry supports multi-level navigation with no limitation in depth. The easy tap-tap interface is obvious and does not detract visitors. For better navigation on your website the plugin includes built-in search which is optional. Overall Blurry is all about best UI/UX practices combined with amazing design.
 
-Plugin works on iOS, Android, Blackberry and Windows Mobile if device browser supports required features, if not it's just not generated.
-
+This Plugin works on iOS, Android, Blackberry and Windows Mobile if device browser supports required features, if not the menu won’t generate.
 
 == Installation ==
 
